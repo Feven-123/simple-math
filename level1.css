@@ -1,0 +1,135 @@
+body {
+    background-image: url(./Annotation\ 2023-07-19\ 043404.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hheading {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 0px;
+}
+.bbb {
+    background-image:linear-gradient(to bottom, #4FE36D, azure);
+    color: azure;
+    font-style: italic;
+    text-align: center;
+    margin-left: 510px;
+    font-size: 80px;
+    border: 1px solid #4FE36D;
+    border-radius: 20px;
+    box-shadow: 10px black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 0px;
+}
+.bbb:hover {
+    background-image:linear-gradient(to bottom, azure, #4FE36D);
+    color: #4FE36D;
+    font-size: 80px;
+    font-style: italic;
+}
+.card {
+    background-image:linear-gradient(to bottom, #4FE36D, azure);
+    color: #8D8F8E;
+    font-style: italic;
+    text-align: center;
+    font-size: 80px;
+    outline: none;
+    margin: 25px;
+    margin-left: 105px;
+    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family:fantasy;
+    border-radius: 40px;
+}
+
+.card:hover {
+    background-image:linear-gradient(to bottom, azure, #4FE36D);
+    color: #8D8F8E;
+    font-style: italic;
+    text-align: center;
+    font-size: 80px;
+    outline: none;
+    margin: 25px;
+    margin-left: 105px;
+    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    border-radius: 40px;
+}
+.heading {
+    font-family: fantasy;
+    color: #8D8F8E;
+    font-style: italic;
+    font-size:50px;
+    margin-top: 0px;
+}
+.no {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px;
+    
+
+}
+.nos {
+    padding-bottom: 0px;
+    margin-top:0px ;
+}
+.space {
+    width:90px;
+    height:80px;
+    font-size: 80px;
+}
+.icon {
+    text-align: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    background-color: #DFD322;
+    border-radius: 50px;
+    display: block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin-right:10px ;
+    margin-left: 1080px;
+    text-align: center;
+}
+.icon:hover {
+    background-color:azure;
+}
+.icon2 {
+    text-align: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    
+    border-radius: 50px;
+    display: block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin-right:10px ;
+    margin-left: 1080px;
+    text-align: center;
+}
+.btnn {
+    color:black;
+    background-color: #DED70E;
+    font-size: 50px;
+    border-radius: 20px;
+}
+.GJ {
+    font-size: 180px;
+    color:#DED70E;
+    text-align: center;
+}
